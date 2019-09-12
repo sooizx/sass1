@@ -1,0 +1,16 @@
+$myColor: gold;
+$myMargin: 100px auto 0 auto ;
+
+.box1 {
+  width: 200px !important;
+  height: 200px !important;
+  background-color: $myColor !important;
+  margin: $myMargin !important;
+}
+
+.Box2 {
+  width: 200px;
+  height: 200px;
+  background-color: $myColor;
+  margin: $myMargin;
+}
